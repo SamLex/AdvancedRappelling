@@ -984,10 +984,7 @@ AR_Get_Corner_Points = {
 	[_rearCorner,_rearCorner2,_frontCorner,_frontCorner2];
 };
 
-AR_SUPPORTED_VEHICLES = [
-	"Helicopter",
-	"VTOL_Base_F"
-];
+AR_SUPPORTED_VEHICLES = [];
 
 AR_Is_Supported_Vehicle = {
 	params ["_vehicle","_isSupported"];
