@@ -2,6 +2,10 @@
 
 Adds support for helicopter rappelling. SP & MP Compatible.
 
+**Modified for Folk ARPS:**
+ - Integrated latest development changes
+ - Disabled rappeling for players by default. Intention to use AR_Rappel_All_Cargo (or Achilles) for rappeling. Missionmakers can still override with AR_SUPPORTED_VEHICLES_OVERRIDE
+
 **Features:**
 
  - Rappel up to 6 players or AI from any helicopter at the same time (depending on helicopter size)
